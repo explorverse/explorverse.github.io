@@ -1,1 +1,1 @@
-# explorverse.github.io
+# explverse.github.io
